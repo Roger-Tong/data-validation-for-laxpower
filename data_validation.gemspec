@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'data_validation/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "data_validation"
+  spec.name          = "lax_power_data_validation"
   spec.version       = DataValidation::VERSION
   spec.authors       = ["Roger Tong"]
   spec.email         = ["Roger.Tong@activenetwork.com", "tomtongt@live.com"]
