@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "data_validation"
   spec.version       = DataValidation::VERSION
   spec.authors       = ["Roger Tong"]
-  spec.email         = ["Roger.Tong@activenetwork.com"]
+  spec.email         = ["Roger.Tong@activenetwork.com", "tomtongt@live.com"]
 
   spec.summary       = "Data validation for LaxPower"
   spec.description   = "The validation is to compare values between web page values and mobile api responses"
